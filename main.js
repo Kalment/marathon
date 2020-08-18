@@ -1,9 +1,6 @@
-let firstName;
-
-firstName = 'Al';
-
-const lastName = 'Mark';
-
-//lastName = 'Park';
-console.log(typeof lastName);
-console.log(firstName);
+let a = 4; b = 5;
+console.log(a + b);
+console.log(a - b);
+console.log(a * b);
+console.log(a / b); 
+console.log(a % b);
